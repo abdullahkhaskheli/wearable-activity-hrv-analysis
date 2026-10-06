@@ -1,0 +1,11 @@
+# Development test snapshot; Python 3.12.14
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.8.0
+matplotlib==3.10.8
+plotly==6.9.0
+streamlit==1.64.0
+PyYAML==6.0.3
+joblib==1.5.3
+pytest==9.1.1
